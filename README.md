@@ -24,29 +24,29 @@
     </tr>
     <tr>
         <th>color</th>
-        <td><img src="lfph/horizontal/color/lfph-horizontal-color.png" width="200"></td>
-        <td><img src="lfph/stacked/color/lfph-stacked-color.png" width="95"></td>
+        <td><img src="lfph/horizontal/color/lfph-horizontal-color.png" width="150"></td>
+        <td><img src="lfph/stacked/color/lfph-stacked-color.png" width="110"></td>
         <td><img src="lfph/icon/color/lfph-icon-color.png" width="75"></td>
-        <td><img src="lfph/horizontal/color/lfph-horizontal-color.svg" width="200"></td>
-        <td><img src="lfph/stacked/color/lfph-stacked-color.svg" width="95"></td>
+        <td><img src="lfph/horizontal/color/lfph-horizontal-color.svg" width="150"></td>
+        <td><img src="lfph/stacked/color/lfph-stacked-color.svg" width="110"></td>
         <td><img src="lfph/icon/color/lfph-icon-color.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
-        <td><img src="lfph/horizontal/black/lfph-horizontal-black.png" width="200"></td>
-        <td><img src="lfph/stacked/black/lfph-stacked-black.png" width="95"></td>
+        <td><img src="lfph/horizontal/black/lfph-horizontal-black.png" width="150"></td>
+        <td><img src="lfph/stacked/black/lfph-stacked-black.png" width="110"></td>
         <td><img src="lfph/icon/black/lfph-icon-black.png" width="75"></td>
-        <td><img src="lfph/horizontal/black/lfph-horizontal-black.svg" width="200"></td>
-        <td><img src="lfph/stacked/black/lfph-stacked-black.svg" width="95"></td>
+        <td><img src="lfph/horizontal/black/lfph-horizontal-black.svg" width="150"></td>
+        <td><img src="lfph/stacked/black/lfph-stacked-black.svg" width="110"></td>
         <td><img src="lfph/icon/black/lfph-icon-black.svg" width="75"></td>
     </tr>
     <tr>
         <th>white</th>
-        <td><img src="lfph/horizontal/white/lfph-horizontal-white.png" width="200"></td>
-        <td><img src="lfph/stacked/white/lfph-stacked-white.png" width="95"></td>
+        <td><img src="lfph/horizontal/white/lfph-horizontal-white.png" width="150"></td>
+        <td><img src="lfph/stacked/white/lfph-stacked-white.png" width="110"></td>
         <td><img src="lfph/icon/white/lfph-icon-white.png" width="75"></td>
         <td><img src="lfph/horizontal/white/lfph-horizontal-white.svg" width="200"></td>
-        <td><img src="lfph/stacked/white/lfph-stacked-white.svg" width="95"></td>
+        <td><img src="lfph/stacked/white/lfph-stacked-white.svg" width="110"></td>
         <td><img src="lfph/icon/white/lfph-icon-white.svg" width="75"></td>
     </tr>
 
