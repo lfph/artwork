@@ -67,7 +67,6 @@
         <th></th>
         <th>horizontal</th>
         <th>icon</th>
-
     </tr>
     <tr>
         <td><img src="lfph-landscape/lfph-landscape-horizontal.png" width="250"></td>
@@ -77,7 +76,6 @@
         <td><img src="lfph-landscape/lfph-landscape-horizontal.svg" width="250"></td>
         <td><img src="lfph-landscape/lfph-landscape-icon.svg" width="150"></td>    
     </tr>
-
 </table>
 
 
