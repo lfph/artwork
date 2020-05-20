@@ -59,7 +59,6 @@
     	<th colspan="2"></th>
     </tr>
     <tr>
-        <th></th>
         <th colspan="1">horizontal</th>
         <th colspan="1">icon</th>
     </tr>
@@ -72,7 +71,7 @@
         <td><img src="lfph-landscape/lfph-landscape-icon.svg" width="100"></td>    
     </tr>
 </table>
-
+<br>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
