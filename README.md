@@ -56,17 +56,12 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+    	<th colspan="2"></th>
     </tr>
     <tr>
         <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
-    </tr>
-    <tr>
-        <th></th>
-        <th>horizontal</th>
-        <th>icon</th>
+        <th colspan="3">horizontal</th>
+        <th colspan="3">icon</th>
     </tr>
     <tr>
         <td><img src="lfph-landscape/lfph-landscape-horizontal.png" width="250"></td>
