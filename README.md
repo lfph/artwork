@@ -60,16 +60,16 @@
     </tr>
     <tr>
         <th></th>
-        <th colspan="3">horizontal</th>
-        <th colspan="3">icon</th>
+        <th colspan="1">horizontal</th>
+        <th colspan="1">icon</th>
     </tr>
     <tr>
         <td><img src="lfph-landscape/lfph-landscape-horizontal.png" width="250"></td>
-        <td><img src="lfph-landscape/lfph-landscape-icon.png" width="150"></td>    
+        <td><img src="lfph-landscape/lfph-landscape-icon.png" width="100"></td>    
     </tr>
     <tr>
         <td><img src="lfph-landscape/lfph-landscape-horizontal.svg" width="250"></td>
-        <td><img src="lfph-landscape/lfph-landscape-icon.svg" width="150"></td>    
+        <td><img src="lfph-landscape/lfph-landscape-icon.svg" width="100"></td>    
     </tr>
 </table>
 
