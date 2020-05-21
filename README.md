@@ -6,18 +6,20 @@
 
 <table>
     <tr>
-    	<th colspan="7"></th>
+    	<th colspan="9"></th>
     </tr>
     <tr>
         <th></th>
-        <th colspan="3">PNG</th>
-        <th colspan="3">SVG</th>
+        <th colspan="4">PNG</th>
+        <th colspan="4">SVG</th>
     </tr>
     <tr>
         <th></th>
+        <th>horizontal-web</th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
+        <th>horizontal-web</th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
