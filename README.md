@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <th></th>
-        <th><sub><sup>horizontal<p>web</sup></sub></th>
+        <th>horizontal-web</th>
         <th>horizontal</th>
         <th>stacked</th>
         <th>icon</th>
