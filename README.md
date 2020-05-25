@@ -53,7 +53,7 @@
         <td><img src="lfph/stacked/white/lfph-stacked-white.png" width="110"></td>
         <td><img src="lfph/icon/white/lfph-icon-white.png" width="75"></td>
         <td><img src="lfph/horizontal/white/lfph-horizontal-white.svg" width="170"></td>
-        <td><img src="lfph/horizontal-long/white/lfph-horizontal-long-white.png" width="200"></td>
+        <td><img src="lfph/horizontal-long/white/lfph-horizontal-long-white.svg" width="200"></td>
         <td><img src="lfph/stacked/white/lfph-stacked-white.svg" width="110"></td>
         <td><img src="lfph/icon/white/lfph-icon-white.svg" width="75"></td>
     </tr>
