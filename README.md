@@ -56,17 +56,21 @@
 
 <table>
     <tr>
-    	<th colspan="2"></th>
+    	<th colspan="4"></th>
     </tr>
     <tr>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th colspan="1">horizontal</th>
+        <th colspan="1">icon</th>
         <th colspan="1">horizontal</th>
         <th colspan="1">icon</th>
     </tr>
     <tr>
         <td><img src="lfph-landscape/lfph-landscape-horizontal.png" width="250"></td>
         <td><img src="lfph-landscape/lfph-landscape-icon.png" width="100"></td>    
-    </tr>
-    <tr>
         <td><img src="lfph-landscape/lfph-landscape-horizontal.svg" width="250"></td>
         <td><img src="lfph-landscape/lfph-landscape-icon.svg" width="100"></td>    
     </tr>
