@@ -94,10 +94,10 @@
         <th colspan="1">icon</th>
     </tr>
     <tr>
-        <td><img src="gaen/gaen-horizontal.png" width="250"></td>
-        <td><img src="gaen/gaen-icon.png" width="100"></td>    
-        <td><img src="gaen/gaen-horizontal.svg" width="250"></td>
-        <td><img src="gaen/gaen-icon.svg" width="100"></td>    
+        <td><img src="gaen/stacked/gaen-stacked-black.png" width="250"></td>
+        <td><img src="gaen/icon/gaen-icon-black.png" width="100"></td>    
+        <td><img src="gaen/stacked/gaen-stacked-black.svg" width="250"></td>
+        <td><img src="gaen/icon/gaen-icon-black.svg" width="100"></td>    
     </tr>
 </table>
 <br>
