@@ -75,6 +75,31 @@
         <td><img src="lfph-landscape/lfph-landscape-icon.svg" width="100"></td>    
     </tr>
 </table>
+
+
+#### GAEN Symposium Logos
+
+<table>
+    <tr>
+    	<th colspan="4"></th>
+    </tr>
+    <tr>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th colspan="1">stacked</th>
+        <th colspan="1">icon</th>
+        <th colspan="1">stacked</th>
+        <th colspan="1">icon</th>
+    </tr>
+    <tr>
+        <td><img src="gaen/gaen-horizontal.png" width="250"></td>
+        <td><img src="gaen/gaen-icon.png" width="100"></td>    
+        <td><img src="gaen/gaen-horizontal.svg" width="250"></td>
+        <td><img src="gaen/gaen-icon.svg" width="100"></td>    
+    </tr>
+</table>
 <br>
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
