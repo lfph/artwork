@@ -107,15 +107,6 @@
         <td><img src="projects/covidgreen/icon/color/covidgreen-icon-color.svg" width="75"></td>
     </tr>
     <tr>
-        <th>reversed color</th>
-        <td><img src="projects/covidgreen/horizontal/color-reversed/covidgreen-horizontal-color-reversed.png" width="170"></td>
-        <td><img src="projects/covidgreen/stacked/color-reversed/covidgreen-stacked-color-reversed.png" width="110"></td>
-        <td><img src="projects/covidgreen/icon/color-reversed/covidgreen-icon-color-reversed.png" width="75"></td>
-        <td><img src="projects/covidgreen/horizontal/color-reversed/covidgreen-horizontal-color-reversed.svg" width="170"></td>
-        <td><img src="projects/covidgreen/stacked/color-reversed/covidgreen-stacked-color-reversed.svg" width="110"></td>
-        <td><img src="projects/covidgreen/icon/color-reversed/covidgreen-icon-color-reversed.svg" width="75"></td>
-    </tr>
-    <tr>
         <th>black</th>
         <td><img src="projects/covidgreen/horizontal/black/covidgreen-horizontal-black.png" width="170"></td>
         <td><img src="projects/covidgreen/stacked/black/covidgreen-stacked-black.png" width="110"></td>
@@ -132,6 +123,15 @@
         <td><img src="projects/covidgreen/horizontal/white/covidgreen-horizontal-white.svg" width="170"></td>
         <td><img src="projects/covidgreen/stacked/white/covidgreen-stacked-white.svg" width="110"></td>
         <td><img src="projects/covidgreen/icon/white/covidgreen-icon-white.svg" width="75"></td>
+    </tr>
+	<tr>
+        <th>reversed color</th>
+        <td><img src="projects/covidgreen/horizontal/color-reversed/covidgreen-horizontal-color-reversed.png" width="170"></td>
+        <td><img src="projects/covidgreen/stacked/color-reversed/covidgreen-stacked-color-reversed.png" width="110"></td>
+        <td><img src="projects/covidgreen/icon/color-reversed/covidgreen-icon-color-reversed.png" width="75"></td>
+        <td><img src="projects/covidgreen/horizontal/color-reversed/covidgreen-horizontal-color-reversed.svg" width="170"></td>
+        <td><img src="projects/covidgreen/stacked/color-reversed/covidgreen-stacked-color-reversed.svg" width="110"></td>
+        <td><img src="projects/covidgreen/icon/color-reversed/covidgreen-icon-color-reversed.svg" width="75"></td>
     </tr>
 
 </table>
