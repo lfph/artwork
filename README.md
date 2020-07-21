@@ -76,7 +76,6 @@
     </tr>
 </table>
 
-
 #### Covid Green Logos
 
 <table>
@@ -133,9 +132,7 @@
         <td><img src="projects/covidgreen/stacked/color-reversed/covidgreen-stacked-color-reversed.svg" width="110"></td>
         <td><img src="projects/covidgreen/icon/color-reversed/covidgreen-icon-color-reversed.svg" width="75"></td>
     </tr>
-
 </table>
-
 
 #### Covid Shield Logos
 
@@ -184,7 +181,30 @@
         <td><img src="projects/covidshield/stacked/white/covidshield-stacked-white.svg" width="110"></td>
         <td><img src="projects/covidshield/icon/white/covidshield-icon-white.svg" width="75"></td>
     </tr>
+</table>
 
+#### GAEN Symposium Logos
+
+<table>
+    <tr>
+    	<th colspan="4"></th>
+    </tr>
+    <tr>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th colspan="1">stacked</th>
+        <th colspan="1">icon</th>
+        <th colspan="1">stacked</th>
+        <th colspan="1">icon</th>
+    </tr>
+    <tr>
+        <td><img src="gaen/stacked/black/gaen-stacked-black.png" width="250"></td>
+        <td><img src="gaen/icon/black/gaen-icon-black.png" width="100"></td>    
+        <td><img src="gaen/stacked/black/gaen-stacked-black.svg" width="250"></td>
+        <td><img src="gaen/icon/black/gaen-icon-black.svg" width="100"></td>    
+    </tr>
 </table>
 <br>
 
