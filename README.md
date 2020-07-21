@@ -56,30 +56,6 @@ With many browsers, you can right click and copy the logo of your choice below. 
 
 </table>
 
-#### LFPH Landscape Logos
-
-<table>
-    <tr>
-    	<th colspan="4"></th>
-    </tr>
-    <tr>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
-    </tr>
-    <tr>
-        <th colspan="1">horizontal</th>
-        <th colspan="1">icon</th>
-        <th colspan="1">horizontal</th>
-        <th colspan="1">icon</th>
-    </tr>
-    <tr>
-        <td><img src="lfph-landscape/lfph-landscape-horizontal.png" width="250"></td>
-        <td><img src="lfph-landscape/lfph-landscape-icon.png" width="100"></td>    
-        <td><img src="lfph-landscape/lfph-landscape-horizontal.svg" width="250"></td>
-        <td><img src="lfph-landscape/lfph-landscape-icon.svg" width="100"></td>    
-    </tr>
-</table>
-
 #### Covid Green Logos
 
 <table>
@@ -184,6 +160,30 @@ With many browsers, you can right click and copy the logo of your choice below. 
         <td><img src="projects/covidshield/horizontal/white/covidshield-horizontal-white.svg" width="170"></td>
         <td><img src="projects/covidshield/stacked/white/covidshield-stacked-white.svg" width="110"></td>
         <td><img src="projects/covidshield/icon/white/covidshield-icon-white.svg" width="75"></td>
+    </tr>
+</table>
+
+#### LFPH Landscape Logos
+
+<table>
+    <tr>
+    	<th colspan="4"></th>
+    </tr>
+    <tr>
+        <th colspan="2">PNG</th>
+        <th colspan="2">SVG</th>
+    </tr>
+    <tr>
+        <th colspan="1">horizontal</th>
+        <th colspan="1">icon</th>
+        <th colspan="1">horizontal</th>
+        <th colspan="1">icon</th>
+    </tr>
+    <tr>
+        <td><img src="lfph-landscape/lfph-landscape-horizontal.png" width="250"></td>
+        <td><img src="lfph-landscape/lfph-landscape-icon.png" width="100"></td>    
+        <td><img src="lfph-landscape/lfph-landscape-horizontal.svg" width="250"></td>
+        <td><img src="lfph-landscape/lfph-landscape-icon.svg" width="100"></td>    
     </tr>
 </table>
 
