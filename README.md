@@ -108,12 +108,12 @@
     </tr>
     <tr>
         <th>reversed color</th>
-        <td><img src="covidgreen/horizontal/color/covidgreen-horizontal-color-reversed.png" width="170"></td>
-        <td><img src="covidgreen/stacked/color/covidgreen-stacked-color-reversed.png" width="110"></td>
-        <td><img src="covidgreen/icon/color/covidgreen-icon-color-reversed.png" width="75"></td>
-        <td><img src="covidgreen/horizontal/color/covidgreen-horizontal-color-reversed.svg" width="170"></td>
-        <td><img src="covidgreen/stacked/color/covidgreen-stacked-color-reversed.svg" width="110"></td>
-        <td><img src="covidgreen/icon/color/covidgreen-icon-color-reversed.svg" width="75"></td>
+        <td><img src="covidgreen/horizontal/color-reversed/covidgreen-horizontal-color-reversed.png" width="170"></td>
+        <td><img src="covidgreen/stacked/color-reversed/covidgreen-stacked-color-reversed.png" width="110"></td>
+        <td><img src="covidgreen/icon/color-reversed/covidgreen-icon-color-reversed.png" width="75"></td>
+        <td><img src="covidgreen/horizontal/color-reversed/covidgreen-horizontal-color-reversed.svg" width="170"></td>
+        <td><img src="covidgreen/stacked/color-reversed/covidgreen-stacked-color-reversed.svg" width="110"></td>
+        <td><img src="covidgreen/icon/color-reversed/covidgreen-icon-color-reversed.svg" width="75"></td>
     </tr>
     <tr>
         <th>black</th>
