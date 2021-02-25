@@ -163,6 +163,48 @@ With many browsers, you can right click and copy the logo of your choice below. 
     </tr>
 </table>
 
+#### Herald Logos
+
+<table>
+    <tr>
+    	<th colspan="7"></th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan="3">PNG</th>
+        <th colspan="3">SVG</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+        <th>horizontal</th>
+        <th>stacked</th>
+        <th>icon</th>
+    </tr>
+    <tr style="background-color: lightgray">
+        <th style="color:black;">light</th>
+        <td><img src="projects/herald/horizontal/white/661330 Herald OSS Logo Final White.png" width="170"></td>
+        <td><img src="projects/herald/stacked/white/661330 Herald OSS Logo Final White Stacked.png" width="110"></td>
+        <td style="color:black;">N/A use below</td>
+        <td><img src="projects/herald/horizontal/white/661330 Herald OSS Logo Final White.svg" width="170"></td>
+        <td><img src="projects/herald/stacked/white/661330 Herald OSS Logo Final White Stacked.svg" width="110"></td>
+        <td style="color:black;">N/A</td>
+    </tr>
+    <tr style="background-color: white">
+        <th style="color:black;">dark</th>
+        <td><img src="projects/herald/horizontal/gray/661330 Herald OSS Logo Final Gray.png" width="170"></td>
+        <td><img src="projects/herald/stacked/gray/661330 Herald OSS Logo Final Gray Stacked.png" width="110"></td>
+        <td><img src="projects/herald/icon/gray/661330 Herald OSS Logo Final Gray Icon.png" width="75"></td>
+        <td><img src="projects/herald/horizontal/gray/661330 Herald OSS Logo Final Gray.svg" width="170"></td>
+        <td><img src="projects/herald/stacked/gray/661330 Herald OSS Logo Final Gray Stacked.svg" width="110"></td>
+        <td style="color:black;">N/A</td>
+    </tr>
+</table>
+
+Note: Herald logos also available alongside the above in EPS format.
+
 #### LFPH Landscape Logos
 
 <table>
