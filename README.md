@@ -6,6 +6,23 @@ With many browsers, you can right click and copy the logo of your choice below. 
 
 *Note: GitHub Flavored Markdown used in the Readme doesn't support background colors. The white logos below are displayed on the light grey of tables.*
 
+### How to Upload 
+
+Click to watch a short video on how to upload your logos here: 
+
+[![Link to Instructional Video](http://img.youtube.com/vi/BiYdIKRzi9Y/0.jpg)](http://www.youtube.com/watch?v=BiYdIKRzi9Y "Instructional Video")
+
+Once you've uploaded your logos to a folder you can add them in a table below. 
+
+### Project Logos
+
+* [LFPH Logos](https://github.com/lfph/artwork#lfph-logos)
+* [Covid Green Logos](https://github.com/lfph/artwork#covid-green-logos)
+* [Covid Shield Logos](https://github.com/lfph/artwork#covid-shield-logos)
+* [Herald Logos](https://github.com/lfph/artwork#herald-logos)
+* [LFPH Landscape Logos](https://github.com/lfph/artwork#lfph-landscape-logos)
+
+
 #### LFPH Logos
 
 <table>
@@ -229,34 +246,6 @@ Note: Herald logos also available alongside the above in EPS format.
     </tr>
 </table>
 
-#### GAEN Symposium Logos
-
-<table>
-    <tr>
-    	<th colspan="4"></th>
-    </tr>
-    <tr>
-        <th colspan="2">PNG</th>
-        <th colspan="2">SVG</th>
-    </tr>
-    <tr>
-        <th colspan="1">stacked</th>
-        <th colspan="1">icon</th>
-        <th colspan="1">stacked</th>
-        <th colspan="1">icon</th>
-    </tr>
-    <tr>
-        <td><img src="other/gaen/stacked/black/gaen-stacked-black.png" width="250"></td>
-        <td><img src="other/gaen/icon/black/gaen-icon-black.png" width="100"></td>    
-        <td><img src="other/gaen/stacked/black/gaen-stacked-black.svg" width="250"></td>
-        <td><img src="other/gaen/icon/black/gaen-icon-black.svg" width="100"></td>    
-    </tr>
-</table>
-<br>
-
-### How to Upload
-
-[![Instructions are here](https://img.youtube.com/vi/BiYdIKRzi9Y/0.jpg)](https://www.youtube.com/watch?v=BiYdIKRzi9Y)
 
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
