@@ -254,6 +254,10 @@ Note: Herald logos also available alongside the above in EPS format.
 </table>
 <br>
 
+### How to Upload
+
+[![Instructions are here](https://img.youtube.com/vi/BiYdIKRzi9Y/0.jpg)](https://www.youtube.com/watch?v=BiYdIKRzi9Y)
+
 Use of any trademark or logo is subject to the trademark policy available at https://www.linuxfoundation.org/trademark-usage
 
 Questions? Please email [info@lfph.io](mailto:info@lfph.io).
